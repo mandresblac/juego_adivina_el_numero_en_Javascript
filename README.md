@@ -8,11 +8,6 @@ logre acertar con el número, tambien se muestran los números ingresados, la ca
   - [Javascript](https://developer.mozilla.org/es/docs/Web/javascript): Lenguaje de programación para desarrollo de forntend y Backend.
 
 ## Imagenes del juego
-- Imagen 1
 ![Imagen 1](./img/img1.png)
-
-- Imagen 2
 ![Imagen 2](./img/img2.png)
-
-- Imagen 3
 ![Imagen 2](./img/img3.png)
