@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Juego de adivinar el número</title>
+</head>
+
+<body>
+    <h1>Adivina el número</h1>
+    <p>Introduce un número entre 1 y 100:</p>
+    <button class="reiniciar" id="btnReiniciar">Reinicia juego</button>
+    <input type="number" id="numeroEntrada" min="1" max="100" required>
+    <button class="comprobar" id="btnComprobar">Comprobar</button>
+    <p class="mensaje" id="mensaje">¡A jugar!</p>
+    <p class="mensaje">
+        Numeros ingresados: <span class="mensaje" id="totalNumerosIngresados"></span>
+    </p>
+    <p class="mensaje">Cantidad de intentos: <span class="mensaje" id="intento"></span></p>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

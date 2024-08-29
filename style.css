@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+}
+  
+h1 {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+  width: 180px;
+}
+
+.reiniciar {
+  padding: 8px 12px;
+  background-color: #c00e1a;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.reiniciar:hover {
+  background-color: #e41422;
+}
+
+.comprobar {
+  padding: 8px 12px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.comprobar:hover {
+  background-color: #37a13b;
+}
+
+.mensaje {
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 19px;
+  margin-top: 20px;
+}
