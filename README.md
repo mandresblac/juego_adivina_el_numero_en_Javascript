@@ -7,4 +7,7 @@ logre acertar con el número, tambien se muestran los números ingresados, la ca
   - [Css](https://developer.mozilla.org/es/docs/Web/CSS): Lenguaje de estilos para dar presentacion al proyecto web.
   - [Javascript](https://developer.mozilla.org/es/docs/Web/javascript): Lenguaje de programación para desarrollo de forntend y Backend.
 
-![Imagen del juego](./img/adivina_el_numero)
+## Imagenes del juego
+![Imagen 1](./img/img1.png)
+![Imagen 2](./img/img2.png)
+![Imagen 2](./img/img3.png)
