@@ -9,5 +9,7 @@ logre acertar con el número, tambien se muestran los números ingresados, la ca
 
 ## Imagenes del juego
 ![Imagen 1](./img/img1.png)
+
 ![Imagen 2](./img/img2.png)
+
 ![Imagen 2](./img/img3.png)
